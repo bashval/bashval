@@ -80,13 +80,13 @@ Hi there! I'm a beginner software developer with a passion for learning and buil
   ▸ Technical Features: custom error pages, pagination for posts and comments, email notification system  
   ▸ Content Management: create, edit, and delete posts; upload and display post images; add/remove comments  
 
-- [**Django testing**](https://github.com/bashval/django_testing)  
-  ▸ Implementing test cases for a Django project using both pytest and unittest frameworks
-
 
 ### ⚡Stats
 
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bashval&theme=vue)
+
+
+#### Codewars profile
 
 [![codewars](https://www.codewars.com/users/bashval/badges/large?theme=light)](https://www.codewars.com/users/bashval)
 
