@@ -1,4 +1,4 @@
-# Valentin Bashvatov
+# Valentin Bashkatov
 
 ## 🚀 About Me
 
@@ -67,7 +67,7 @@ Hi there! I'm a beginner software developer with a passion for learning and buil
   ▸ Data import from CSV file using custom management-command
 
 - [**Charity Fund Service (FastAPI)**](https://github.com/bashval/charity_fund_service)  
-  ▸ The project is implemented as an API using the FastAPI framework.
+  ▸ The project is implemented as an API using the FastAPI framework.  
   ▸ User authentication using JWT  
   ▸ Implemented donation logic:
     - Administrator (superuser) can create and edit charity projects for various purposes, specifying the required amount.
