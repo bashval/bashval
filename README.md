@@ -36,11 +36,14 @@ Hi there! I'm a beginner software developer with a passion for learning and buil
 ![Docker-compose](https://img.shields.io/badge/Docker_compose-2496ED?logo=docker&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?logo=gunicorn&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=Celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-4169E1?logo=postgresql&logoColor=white)
 
 
 ## 🔥 My Projects:
