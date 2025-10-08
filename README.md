@@ -48,7 +48,22 @@ Hi there! I'm a beginner software developer with a passion for learning and buil
 
 ## 🔥 My Projects:
 
-#### **Web Projects**
+
+- [**IHearYou Bot (FastAPI + aiogram) (Team project)**](https://github.com/Shpindik/Ihearyou_bot)  
+  ▸ Telegram Bot providing information for families with children with hearing impairments.
+  ▸ Designed and implemented a FastAPI-based backend with REST API endpoints and admin panel for content management and user interaction   
+  ▸ Created database models and migrations using SQLAlchemy / Alembic, targeting PostgreSQL as the persistence layer  
+  ▸ Integrated caching / auxiliary data storage with Redis for performance or session/data caching use cases  
+  ▸ Developed and exposed authentication and authorization logic (JWT tokens, password hashing) for admin operations and secured API access  
+  ▸ Coordinated with the Telegram bot component (built with aiogram) and frontend (React) via well-defined API contracts  
+  ▸ Implemented key domain features:  
+  - Hierarchical content navigation and keyword-based search over articles, videos, PDFs
+  - User feedback (e.g. content rating), tracking, and analytics for improving content delivery  
+  - Scheduled reminders to engage dormant users (every ~10 days)
+
+  ▸ Containerized services with Docker / Docker Compose and provided project orchestration & setup via Makefile scripts  
+  ▸ Applied test-driven practices (via pytest) and code quality tooling (e.g. formatting, linters) to ensure maintainability 
+GitHub   
 
 - [**Cookbook (Django REST Framework + Deployment)**](https://github.com/bashval/cookbook)  
   ▸ REST API backend for SPA of cooking recepies site  
@@ -58,8 +73,7 @@ Hi there! I'm a beginner software developer with a passion for learning and buil
   ▸ Configured Nginx as reverse proxy for backend/frontend  
   ▸ Implemented Docker volumes for static/media files and database persistence 
 
-- [**YaMDb API (Django REST Framework)**](https://github.com/bashval/api_yamdb)  
-  ▸ Team project (3 developers) with role-based distribution  
+- [**YaMDb API (Django REST Framework) (Team project)**](https://github.com/bashval/api_yamdb)  
   ▸ REST API for review platform of books/movies/music  
   ▸ User authentication implemented using JWT token with data verification and password reset via email  
   ▸ Complex database relationships with cascade deletion  
